@@ -2,4 +2,4 @@ New file
 
 This was blank document, now it is not a blank document
 
-This is in a new branch
+This is in a new branch for a new branch
