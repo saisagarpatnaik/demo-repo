@@ -1,1 +1,3 @@
 New file
+
+This was blank document, now it is not a blank document
